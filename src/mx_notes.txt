@@ -1,0 +1,25 @@
+react lifecycle methods   - https://reactjs.org/docs/react-component.html
+
+Promises chaining: https://javascript.info/promise-chaining
+JavaScript language: https://javascript.info/js
+
+JASONPlaceholder:  https://jsonplaceholder.typicode.com/users
+
+Error boundary in React
+
+State Management
+
+Http/JSON
+- example.com
+JSON.parse();
+const json = JSON.stringify(obj)
+chrome addon - jsonview.
+
+AJAX - 
+
+Promises: - fulfilled, peding, resovled
+
+
+
+
+
